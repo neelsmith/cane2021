@@ -31,15 +31,7 @@ By analyzing how closely distinct topics align with the categories of literary-c
 
 **3**. Graeme Bird, Gordon College
 
-The *Iliad* text of the Venetus A manuscript uniquely preserves a system of annotation with critical signs that was invented by Dionysius' teacher, Aristarchus, and is our only source for a fragment of the treatise *On Critical Signs* by Aristonicus.  As this fragment shows, the critial signs focus the reader’s attention on textual and literary matters, such as whether specific lines should be considered "Homeric," based on such criteria as various types of "appropriateness."  
-
-
-For example, a line that occurs in more than one location is argued to be better suited to its dramatic context in one place rather than in another.  Two centuries earlier, the grammarian Dionysius Thrax had given a six-fold division of the art of literary interpretation, of which the sixth and (according to him) most important part is the “critical judgment of poetry”; in this panel we examine possible connections between the literary systems used and described by these two scholars.
-
-
-
-
-
+The *Iliad* text of the Venetus A manuscript uniquely preserves a system of annotation with critical signs that was invented by Dionysius' teacher, Aristarchus, and is our only source for a fragment of the treatise *On Critical Signs* by Aristonicus.  As this fragment shows, the critical signs focus the reader’s attention on textual and literary matters, such as whether specific lines should be considered "Homeric," based on such criteria as various types of "appropriateness." They allow us to see how the editorial work of Aristarchus was directed toward the ultimate goal of the literary scholar according to Dionysius, namely the "critical judgment of poetry."
 
 
 
